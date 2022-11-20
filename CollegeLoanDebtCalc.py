@@ -92,11 +92,7 @@ while (attend):
     else:
         print('Enter either Y or N')
         
-#typeStud = ["D","D","I","I"]
-#loan = [5000, 6000, 9000, 12000]
-#subRate = [5,6,6,7]
-#unsubRate = [7,8,8,9]
-#years = 4
+
 subLoanLimit = [3500, 4500, 5500]
 totalOwed = 0
 loansList, rateList = [], []
